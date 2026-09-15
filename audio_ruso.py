@@ -107,4 +107,6 @@ if mp3s:
     print(f"\n✅ Listo! Guardado en:\n{OUTPUT_MP3}")
 else:
     print("No se generaron audios.")
+<<<<<<< HEAD
 # Version de práctica - MODIFICADA directo en main
+# Version de práctica - RESUELTA: combina main y conflicto-test
